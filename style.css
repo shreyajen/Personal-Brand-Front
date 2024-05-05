@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    text-decoration: none;
+}
+
+.blackhead{
+    background-color: black;
+    color: white;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.black-text1{
+    font-size: 0.8rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.black-text2 a {
+    font-size: 0.8rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.whitehead{
+    background-color: white;
+    color: black;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;      /*used for putting two different sides*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.her-name{
+   font-size: 2rem;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+   
+}
+
+li a{
+    color: black;
+    font-size: 1rem;
+    margin-right: 50px;       /*used for spacing between options*/
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.hero-section{
+    background-image: url("hero-image.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+ }
+
+ .t1{
+    font-size: 0.7rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .t2{
+
+    font-size: 1.8rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+
+ .main-img{
+    position: relative;
+ }
+ .grey-img{
+    background: rgb(132, 108, 108);
+    width: 300px;
+    height: 340px;
+    margin-left: 20px;
+    margin-top: 60px;
+ }
+
+ .hero-pt2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+
+ .her-pic{
+    background-image: url("her-pic.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 380px;
+    position: absolute;
+    top: 90px;
+    left: 50px;
+ }
+
+ .side-text{
+    text-align: center;
+    top: 80px;
+    
+
+ }
+
+ .tt1 {
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+
+ .tt2 {
+    font-size: 0.9rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1px;
+ }
+
+ button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    margin-top: 20px;
+ }
+
+ button a{
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+ }
+
+ .black-img{
+    background: rgb(12, 12, 12);
+    width: 600px;
+    height: 500px;
+   
+    margin-left: 200px;
+    margin-top: 90px;
+ }
+
+ .her-pic1{
+    background-image: url("pic1.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 380px;
+    position: absolute;
+    top: 1100px;
+    right: 400px;
+ }
+
+ .her-pic2{
+    background-image: url("pic2.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 380px;
+    position: absolute;
+    top: 1100px;
+    right: 60px;
+ }
+
+ .hero-pt3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+
+ .side-text2{
+    text-align: center;
+    top: 80px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+ }
+
+ .ttt1 {
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+
+ .ttt2 {
+    font-size: 0.9rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    margin-top: 20px;
+ }
+
+ button a{
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+ }
+
+
+
+
+
